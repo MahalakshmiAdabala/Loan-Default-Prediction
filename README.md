@@ -1,7 +1,7 @@
 # Project: Loan Default Prediction 
 
 ## Problem Formulation
-Banks earn a major revenue from lending loans. But it is often associated with risk. The borrower's may default on the loan. To mitigate this issue, the banks have decided to use Machine Learning to overcome this issue. They have collected past data on the loan borrowers. The dataset is enormous & consists of multiple deteministic factors like borrowe's income, gender, loan pupose etc. 
+Banks earn a major revenue from lending loans. But it is often associated with risk. The borrower's may default on the loan. To mitigate this issue, the banks have decided to use Machine Learning to overcome this issue. They have collected past data on the loan borrowers. The dataset is enormous & consists of multiple deterministic factors like borrowe's income, gender, loan pupose etc. 
 
 (Sourse of the data : https://www.kaggle.com/datasets/yasserh/loan-default-dataset)
 
